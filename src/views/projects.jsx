@@ -1,0 +1,1 @@
+//Nota: Separar de un lado el componente lógico y el componente de vista
